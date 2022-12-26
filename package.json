@@ -1,0 +1,22 @@
+{
+  "name": "github-package-test",
+  "version": "1.0.0",
+  "description": "A test package from sven0219",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sven0219/github-package-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sven0219",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sven0219/github-package-test/issues"
+  },
+  "homepage": "https://github.com/sven0219/github-package-test#readme"
+}
